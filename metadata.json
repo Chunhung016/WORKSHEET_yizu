@@ -1,0 +1,8 @@
+{
+  "name": "华文阅读与理解 · 乙组",
+  "description": "小学华文阅读与理解（乙组）《雨后的第一桶水》互动答题系统，支持分步答题、整卷浏览、小蜜蜂仙子下凡指引线索、词语查找与排序互动。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
